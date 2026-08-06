@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://awsoftware787.github.io/archive-a4imea/sitemap.xml
